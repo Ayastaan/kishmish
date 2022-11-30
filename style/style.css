@@ -1,0 +1,28 @@
+p {
+    color: rgb(52, 0, 48);
+}
+html {
+    font-family: 'pattaya', sans-serif;
+    background-color: rgb(255, 196, 0);
+}
+hl {
+    font-size: 80px;
+    text-align: center;
+}
+p, li{
+    font-size: 20px;
+    line-height: 2;
+    initial-letter: 1px;
+}
+body {
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(red, green, blue);
+    padding: 0 20px 20px 20px;
+    border: 3px solid black;
+}
+img {
+    display:block;
+    margin: 0 auto;
+    width: 80%;
+}
